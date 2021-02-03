@@ -1,5 +1,5 @@
-# UFTP
-## USEF Flex Trading Protocol
+# UFTP - X-FLEX
+## USEF Flex Trading Protocol (X-FLEX extension)
 
 ## INTELLECTUAL PROPERTY DISCLAIMER 
 
